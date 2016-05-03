@@ -4,7 +4,7 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-var defaultLocals = require('./my_modules/default-locals.js');
+var defaultLocals = require('./modules/default-locals.js');
 
 var routes = require('./routes/index');
 

@@ -1,5 +1,5 @@
 {
-  "mongoconnect": "mongodb://127.0.0.1:27017/translatedb",
+  "mongoconnect": "mongodb://127.0.0.1:27017/test",
   "port": 3000,
   "default_locals": {
     "title": "This is sample app",
